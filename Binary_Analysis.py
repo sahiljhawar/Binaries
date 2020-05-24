@@ -1,10 +1,5 @@
 
 '''Please run all the code in the sequence in which they are written. Thank you!'''
-!pip install numpy
-!pip install pandas
-!pip install matplotlib
-!pip install gatspy
-!pip install scipy
 
 
 import pandas as pd
@@ -120,7 +115,7 @@ def mass():
     mtot=(t*365*24*60*60*(vorbital1+vorbital2)**3)/(2*np.pi*6.67e-11)
     m2=(mtot*a1)/(a1+a2)
     m1=(mtot*a2)/(a1+a2)
-    return print(f'Mass of lighter star is: {m1} kgs \nMass of heavier star is: {m2} kgs')  
+    return print(f'{a1}\n\n{a2}\n\nMass of lighter star is: {m1} kgs \nMass of heavier star is: {m2} kgs')  
 
 velocity()
 fit_curve()

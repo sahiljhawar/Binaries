@@ -1,2 +1,0 @@
-It is well known that if <p align="center"><img src="https://rawgit.com/sahiljhawar/Binaries/master/svgs/bd734510ba6d0c25ce57fa89bd59820c.svg?invert_in_darkmode" align=middle width=119.34136500000001pt height=15.572667pt/></p>, then <img src="https://rawgit.com/sahiljhawar/Binaries/master/svgs/2b1f70f6a49aea806b0a5f021e843447.svg?invert_in_darkmode" align=middle width=112.44139499999999pt height=33.20525999999999pt/>.
-
