@@ -1,7 +1,10 @@
 
-'''Please run all the code in the sequence in which the are written. Thank you!'''
-
-
+'''Please run all the code in the sequence in which they are written. Thank you!'''
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
+!pip install gatspy
+!pip install scipy
 
 
 import pandas as pd
