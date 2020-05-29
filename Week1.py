@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import random
 
 
-# ## Assuming some random values for the parameters for the binary system.
+# ##  Assuming some random values for the parameters for the binary system.
 # ### $$ a= a_1+a_2$$
 # ### $$\frac{T^2}{a^3} =  \frac{4\pi^2}{G(m_1+m_2)}$$
 # ### $$ a = \frac{T(v_1+v_2)}{2\pi}$$
