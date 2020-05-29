@@ -1,5 +1,5 @@
 
-'''Please run all the code in the sequence in which they are written. Thank you!'''
+'''Please run all the code in the sequence in which they are written. Thank you.'''
 
 
 import pandas as pd
